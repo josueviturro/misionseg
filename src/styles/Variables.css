@@ -1,0 +1,31 @@
+:root{
+
+/* Colores primarios */
+--primary1: #2FB7B1;   /* turquesa principal */
+--primary2: #1FA39C;   /* hover / énfasis */
+--primary3: #16827C;
+--primary4: #2fb7b065;   /* títulos fuertes */
+
+  /* 🧱 Colores secundarios (texto / estructura) */
+  --secondary1: #1F2933;
+  --secondary2: #374151;
+  --secondary3: #6B7280;
+  --secondary4: #6B7280c0;
+
+  /* 🌫 Neutros */
+  --neutral1:  #F9FAFB;
+  --neutral2: #F3F4F6;
+  --neutral3: #E5E7EB;
+
+
+  --ms-bg: #f6f8fb;
+  --ms-card: #ffffff;
+  --ms-border: rgba(15, 23, 42, 0.08);
+  --ms-text: #0f172a;
+  --ms-muted: rgba(15, 23, 42, 0.65);
+  --ms-accent: #12c3c7;
+  --ms-shadow: 0 18px 60px rgba(2, 6, 23, 0.1);
+  --ms-shadow-soft: 0 12px 35px rgba(2, 6, 23, 0.08);
+  --ms-radius: 18px;
+
+}

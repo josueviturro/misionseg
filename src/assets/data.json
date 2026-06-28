@@ -1,0 +1,29 @@
+{
+  "card": [
+    {
+      "imageKey": "/images/Security.png",
+      "title": "VIGILANCIA FÍSICA",
+      "description": "Personal altamente capacitado y con amplia experiencia en protección y control de instalaciones."
+    },
+    {
+      "imageKey": "/images/Truck.png",
+      "title": "CUSTODIA EN TRÁNSITO",
+      "description": "Acompañamiento seguro en ruta para el traslado y resguardo de bienes de alto valor."
+    },
+    {
+      "imageKey": "/images/Cam.png",
+      "title": "VIGILANCIA ELECTRÓNICA",
+      "description": "Soluciones tecnológicas avanzadas para monitoreo, prevención y respuesta inmediata."
+    },
+    {
+      "imageKey": "/images/Vip.png",
+      "title": "CUSTODIA VIP",
+      "description": "Protección personalizada con personal entrenado para el resguardo de personas."
+    },
+    {
+      "imageKey": "/images/Advice.png",
+      "title": "ASESORAMIENTO CORPORATIVO",
+      "description": "Análisis y planificación estratégica para reforzar la seguridad de sus instalaciones."
+    }
+  ]
+}
